@@ -59,9 +59,5 @@
   <img src="https://streak-stats.demolab.com?user=ducphuong2323&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducphuong2323&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
-</p>
-
 ---
 
