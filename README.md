@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <!-- Domain mới để tránh lỗi hình streak -->
+  <!-- CẦN dùng cú pháp ảnh ![]() để không bị hiện link chữ -->
   <img src="https://streak-stats.demolab.com?user=ducphuong2323&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
@@ -65,16 +65,3 @@
 
 ---
 
-## ✨ Dự án nổi bật
-
-> Hãy ghim (pin) một vài repo tiêu biểu để mọi người dễ xem hơn.
-
-- [ ] Thêm 2–4 repo public nổi bật (Next.js/React/UI/Algorithms).
-
----
-
-## 📝 Gợi ý thêm
-
-- Thêm **Blog/Notes** nếu có bài viết.
-- Gắn **badge CI/CD** hoặc **Deploy** (Vercel/Netlify) cho các dự án chính.
-- Thêm **screenshot/GIF** demo dự án để tăng ấn tượng.
