@@ -22,7 +22,7 @@
 - 🤔 Cần trợ giúp về **thuật toán**.
 - 💬 Hỏi tôi về **React, JavaScript, Web Design**.
 - 📫 Liên hệ: **ducphuongit2301@gmail.com**
-- ⚡ Sở thích: **game 🎮** và **du lịch ✈️**
+- ⚡ Sở thích: **Code 🎮** và **du lịch ✈️**
 
 ---
 
