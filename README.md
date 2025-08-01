@@ -63,8 +63,4 @@
 
 ### 📊 **Thống kê của tôi:**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ducphuong2323&show_icons=true&locale=en&layout=compact" alt="ducphuong2323" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ducphuong2323&show_icons=true&locale=en" alt="ducphuong2323" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ducphuong2323&" alt="ducphuong2323" /></p>
