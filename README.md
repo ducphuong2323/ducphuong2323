@@ -23,7 +23,7 @@
     <br>
     - 💬 Hãy hỏi tôi về **React, Javascript, và thiết kế web**.
     <br>
-    - 📫 Cách liên lạc với tôi: **phuong.nguyenhoangduc@email.com**
+    - 📫 Cách liên lạc với tôi: **ducphuongit2301@gmail.com**
     <br>
     - ⚡ Điều thú vị: Tôi thích chơi game và đi du lịch.
 </p>
